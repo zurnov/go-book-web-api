@@ -28,7 +28,6 @@ resources.
     ```sh
     git clone https://github.com/zurnov/go-book-web-api
     ```
-    ```
 3. Install dependencies:
     ```sh
     go mod download
